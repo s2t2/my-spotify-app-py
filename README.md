@@ -3,6 +3,12 @@
 
 An example Spotify API client application, for instructional purposes.
 
+## Prerequisites
+
+Create a Spotify Client application, and note its Client Id and Client Secret, and store them in environment variables called `SPOTIPY_CLIENT_ID` and `SPOTIPY_CLIENT_SECRET`.
+
+This repo uses the "dotenv" approach, but feel free to use whatever approach works for you.
+
 ## Installation
 
 Install package dependencies:
